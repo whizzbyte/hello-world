@@ -1,2 +1,3 @@
 # hello-world
-Hello World
+Hello World, by Ryan Teer of Whizzbyte Software
+This is my very first GitHub respository
